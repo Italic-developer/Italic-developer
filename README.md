@@ -12,11 +12,11 @@
 
 🚀 What I'm Building
 
-💬 Halichat
+💬 Tro-Do
 
-A chat application I'm currently building with a focus on modern UI, real-time communication, and a smooth user experience.
+A simple to-do application with a smooth user experience.
 
-🔗 "Live Demo" (https://halichat.vercel.app)
+🔗 (Live Demo)[https://halichat.vercel.app)](https://tro-do.vercel.app/]
 
 ---
 
