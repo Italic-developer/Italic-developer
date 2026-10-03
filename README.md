@@ -16,7 +16,7 @@
 
 A simple to-do application with a smooth user experience.
 
-🔗 (Live Demo)[https://halichat.vercel.app)](https://tro-do.vercel.app/]
+🔗 [live Demo](https://tro-do.vercel.app/)
 
 ---
 
